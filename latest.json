@@ -1,0 +1,23 @@
+{
+  "version": "0.5.0",
+  "notes": "See the assets to download this version and install.",
+  "pub_date": "2025-07-26T22:44:11.508Z",
+  "platforms": {
+    "darwin-x86_64": {
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVSWkhvcUVCbkRtNFd5aTY0RVIxQzh6d0dyNXcxbVY3T2RCaFlkRU9uWW5LSWdpZ3V0TzdjR1NIcld3UitOVGl4aTlwMVBaQW1WSktTNG5sWFZobjhxVTNabkV2QmJPMVFjPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzUzNTY5NjQxCWZpbGU6ZG91cGx1cy5hcHAudGFyLmd6CmYzS2pBTTNmVWZjTHplSmpOVWZlcWV2bkpoZXgxcW5UUXBndE5CWUtldG9CUjRYUlNtdC9KUUJHL2dCYVZ3NGp1WjBtODdzSFUrTXBncW82MXl0aUNnPT0K",
+      "url": "https://release.douplus.app/releases/download/v0.5.0/douplus_x64.app.tar.gz"
+    },
+    "darwin-aarch64": {
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVSWkhvcUVCbkRtNFpwZ1RHL2ZRa2JCaUJJSkFMUkJnNzdaYUdGSXdOemVZcWlCOG5XbjVYdENFdWIvWXJzcWVuck5aRTgvRlZFWTBQZ0NDQmIzOS9FcHcreFpsdFBSNlFZPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzUzNTY5Nzk2CWZpbGU6ZG91cGx1cy5hcHAudGFyLmd6CkhyN212cEcxZTFJcWpHVXpmNmFPUklPY2cyRU5qQjdKWFJibHkwK2NpRnJJWDRadk5XeVBKdzJ4bjVFM0o2cnJKY1V5d0g4Vi9IQStyRmpsNDZXS0J3PT0K",
+      "url": "https://release.douplus.app/releases/download/v0.5.0/douplus_universal.app.tar.gz"
+    },
+    "linux-x86_64": {
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVSWkhvcUVCbkRtNFl1eWlGKzZSb2F0YkdzYUlZOG1Hd1U0Zk9ERGwwK2k5YnFDTkRMNWZzZzE2eGs2TlNrQk0wOTNFTHpoSmRGZE9Iak5DTzcyeTV5bTRINXAySVdZTEFzPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzUzNTY5ODIxCWZpbGU6ZG91cGx1c18wLjUuMF9hbWQ2NC5BcHBJbWFnZQpxV0ZFeW53MWpvbzllNG1sSHBkMU9xYkxpbWd2TlV2c01na3NUWkZpRFgydW9jSU1HY3hzUFNWL3VXanloR1RpV2JtdW9mL0JpZTF6SytacXpQcmJBQT09Cg==",
+      "url": "https://release.douplus.app/releases/download/v0.5.0/douplus_0.5.0_amd64.AppImage"
+    },
+    "windows-x86_64": {
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVSWkhvcUVCbkRtNFdnbDB3czY2TUlISFNIRFRxeG9pZ2VDYnFUZldrb3B1QTg2bXZMMFBPR2RKNFlTTmlYcmdUcC93Y0c3UURHNFhRRXhRMDFTYkI2clN6eDNpYWdOY0FVPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzUzNTY5ODQ4CWZpbGU6ZG91cGx1c18wLjUuMF94NjRfemgtQ04ubXNpCnQzNlROaUI3Nncxd0xXckNiM1pNbjJoaXJDWG9zb2FEYkgwNVJwN1RDYXMxTTNQcnVxaTdSeVN1Vzh6d0VDVWN5ekxOd0xsQkNUUkVGZnppVUxKQ0NBPT0K",
+      "url": "https://release.douplus.app/releases/download/v0.5.0/douplus_0.5.0_x64_zh-CN.msi"
+    }
+  }
+}
